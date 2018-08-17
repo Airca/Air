@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="baseModle" />
+        <module name="computeService" />
+        <module name="computeService_two" />
+        <module name="config-server" />
+        <module name="configserver" />
+        <module name="eureka-feign" />
+        <module name="eureka-ribbon" />
+        <module name="eurekaServer" />
+        <module name="Netflix_zuul" />
+        <module name="noe (1) (springcloud)" />
+        <module name="noe (2) (springCloud)" />
+        <module name="one" />
+        <module name="one (1) (springCloud)" />
+        <module name="one (2) (springcloud)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="baseModle" target="1.8" />
+      <module name="computeService" target="1.8" />
+      <module name="computeService_two" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="configserver" target="1.8" />
+      <module name="eureka-feign" target="1.8" />
+      <module name="eureka-ribbon" target="1.8" />
+      <module name="eurekaServer" target="1.8" />
+      <module name="Netflix_zuul" target="1.8" />
+      <module name="noe (1) (springcloud)" target="1.8" />
+      <module name="noe (2) (springCloud)" target="1.8" />
+      <module name="one" target="1.8" />
+      <module name="one (1) (springCloud)" target="1.8" />
+      <module name="one (2) (springcloud)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

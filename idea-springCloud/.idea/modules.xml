@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Netflix_zuul/Netflix_zuul.iml" filepath="$PROJECT_DIR$/Netflix_zuul/Netflix_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseModle/baseModle.iml" filepath="$PROJECT_DIR$/baseModle/baseModle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computeService/computeService.iml" filepath="$PROJECT_DIR$/computeService/computeService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computeService_two/computeService_two.iml" filepath="$PROJECT_DIR$/computeService_two/computeService_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign/eureka-feign.iml" filepath="$PROJECT_DIR$/eureka-feign/eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon/eureka-ribbon.iml" filepath="$PROJECT_DIR$/eureka-ribbon/eureka-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computeService/noe (1) (springcloud).iml" filepath="$PROJECT_DIR$/computeService/noe (1) (springcloud).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign/noe (2) (springCloud).iml" filepath="$PROJECT_DIR$/eureka-feign/noe (2) (springCloud).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaServer/one.iml" filepath="$PROJECT_DIR$/eurekaServer/one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon/one (1) (springCloud).iml" filepath="$PROJECT_DIR$/eureka-ribbon/one (1) (springCloud).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaServer/one (2) (springcloud).iml" filepath="$PROJECT_DIR$/eurekaServer/one (2) (springcloud).iml" />
+    </modules>
+  </component>
+</project>
