@@ -1,4 +1,4 @@
-spring.application.name=compute-service
+spring.application.name=computeService
 
 server.port=2222
 
