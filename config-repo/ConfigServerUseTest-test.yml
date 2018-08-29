@@ -1,1 +1,11 @@
+eureka:
+    instance:
+        statusPageUrlPath: /info
+        healthCheckUrlPath: /health
+        prefer-ip-address: true
+#        ip-address: 127.0.0.1
+    client:
+        serviceUrl:
+            defaultZone: http://127.0.0.1:1111/eureka/
+
 from=git-test-1.0
