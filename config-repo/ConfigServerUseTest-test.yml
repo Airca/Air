@@ -6,6 +6,8 @@ eureka:
 #        ip-address: 127.0.0.1
     client:
         serviceUrl:
-            defaultZone: http://127.0.0.1:1111/eureka/
+            defaultZone: http://localhost:1111/eureka/
 
-from: git-test-3.0
+
+            
+from: git-test-1.0
