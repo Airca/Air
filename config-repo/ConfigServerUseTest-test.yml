@@ -8,4 +8,4 @@ eureka:
         serviceUrl:
             defaultZone: http://127.0.0.1:1111/eureka/
 
-from: git-test-2.0
+from: git-test-3.0
