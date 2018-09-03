@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      profile: test
+      profile: default
       label: master
       uri: http://localhost:8750/
     rabbitmq:
@@ -9,6 +9,8 @@ spring:
       port: 5672
       username: guest
       password: guest
+  profiles: 
+    active: default
 #      search-paths: dir1
 #      server:
 #        git:
