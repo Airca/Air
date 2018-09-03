@@ -31,4 +31,5 @@ eureka:
                     # docker 部署开启
       defaultZone: http://localhost:1111/eureka/
       
-hehe: eeeeeeeeeeee
+hehe: 
+  eeeeeeeeeeee
