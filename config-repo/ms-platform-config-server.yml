@@ -19,14 +19,14 @@ spring:
 management:
   security:
     enabled: false
-eureka:
-  instance:
-    statusPageUrlPath: /info
-    healthCheckUrlPath: /health
-    prefer-ip-address: true
-#        ip-address: 127.0.0.1
-  client:
-    serviceUrl:
-#            defaultZone: http://192.168.103.28:8761/eureka/
-                    # docker 部署开启
-      defaultZone: http://localhost:1111/eureka/
+#eureka:
+#  instance:
+#    statusPageUrlPath: /info
+#    healthCheckUrlPath: /health
+#    prefer-ip-address: true
+##        ip-address: 127.0.0.1
+#  client:
+#    serviceUrl:
+##            defaultZone: http://192.168.103.28:8761/eureka/
+#                    # docker 部署开启
+#      defaultZone: http://localhost:1111/eureka/
