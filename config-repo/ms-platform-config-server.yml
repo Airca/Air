@@ -3,7 +3,7 @@ spring:
     config:
       profile: default
       label: master
-      uri: http://localhost:8750/
+      uri: http://localhost:1111/
     rabbitmq:
       host: localhsot
       port: 5672
@@ -26,7 +26,7 @@ eureka:
     statusPageUrlPath: /info
     healthCheckUrlPath: /health
     prefer-ip-address: true
-#        ip-address: 127.0.0.1
+    ip-address: 127.0.0.1
   client:
     serviceUrl:
 #            defaultZone: http://192.168.103.28:8761/eureka/
