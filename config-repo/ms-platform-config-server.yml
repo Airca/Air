@@ -25,6 +25,9 @@ spring:
 #management:
 #  security:
 #    enabled: false
+management:
+  security:
+    enabled: false
 eureka:
   instance:
     statusPageUrlPath: /info
@@ -35,7 +38,4 @@ eureka:
     serviceUrl:
 #            defaultZone: http://192.168.103.28:8761/eureka/
                     # docker 部署开启
-      defaultZone: http://192.168.98.195:1111/eureka/
-management:
-  security:
-    enabled: false
+      defaultZone: http://127.0.0.1:1111/eureka/
